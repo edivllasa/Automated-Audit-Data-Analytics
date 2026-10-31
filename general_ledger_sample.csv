@@ -1,0 +1,8 @@
+posting_date,entry_id,account_code,user_id,amount,description
+2026-01-02,1001,1200,user_A,9500.00,Beratungsleistung
+2026-01-03,1002,3400,user_B,150.50,Büromaterial
+2026-01-04,1003,1200,user_A,9500.00,Beratungsleistung
+2026-01-05,1004,5000,user_C,125000.00,Maschinenkauf
+2026-01-06,1005,3400,user_B,9800.00,Werbungskosten
+2026-01-07,1006,2200,user_B,9500.00,Logistik
+2026-01-08,1008,3000,user_A,8700.00,Miete
